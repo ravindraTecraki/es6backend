@@ -2,11 +2,11 @@
   "name": "express_sequelize_es6",
   "version": "1.0.0",
   "description": "Seequelize with es6 syntax",
-  "main": "index.js",
+  "main": "index.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon index.ts"
   },
   "author": "Urvashi",
   "license": "ISC",
